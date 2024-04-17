@@ -29,3 +29,4 @@ jobs:
           projectName: protected-cf
           directory: dist
           branch: main
+          wranglerVersion: '3'
